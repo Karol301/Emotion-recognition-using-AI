@@ -5,7 +5,7 @@ import warnings
 
 warnings.filterwarnings("ignore") 
 
-AUDIO_FILE_PATH = r"..."
+AUDIO_FILE_PATH = r"C:\Users\araba\OneDrive\Pulpit\emotion recognition\Emotion-recognition-using-AI\audio_samples\disgust\wstret2.wav"
 
 MODEL_NAME = "Dpngtm/wav2vec2-emotion-recognition"
 
