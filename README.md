@@ -42,5 +42,6 @@ Najlepsze wyniki spośród testowanych modeli. Poprawnie klasyfikował emocje za
 Radził sobie również z analizą scen zawierających więcej niż jedną osobę.
 
 -Twelve Labs:
+
 Niższa skuteczność niż Gemini. Często dodawał komentarze lub nie był w stanie jednoznacznie określić emocji.
 Najgorzej radził sobie z emocjami: wstręt, strach, złość.
